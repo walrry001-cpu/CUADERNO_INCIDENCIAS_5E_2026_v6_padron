@@ -2,12 +2,12 @@
   "name": "Cuaderno de Incidencias 5.° E - IE 82019",
   "short_name": "C. Incidencias 5E",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#122b5c",
   "theme_color": "#122b5c",
   "icons": [
-    { "src": "icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512x512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icons/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+    { "src": "icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
   ]
 }
